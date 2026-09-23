@@ -1,4 +1,5 @@
 Overview
+
 This project analyses demographic characteristics and mobility patterns using the 2023–2024 Victorian Integrated Survey of Travel and Activity (VISTA) dataset. The analysis investigates how demographic factors are associated with travel mode choice across Victoria, combining data cleaning, exploratory statistical analysis, classification, and clustering to identify patterns in travel behaviour. The project aims to provide insights into the relationship between demographic characteristics and mobility choices and demonstrate how data science techniques can be applied to real-world travel survey data.
 
 #Data Preprocessing
